@@ -1,2 +1,2 @@
 # CalculoNumerico
-Trabalhos em matlab de cálculo numérico
+Trabalhos em matlab de cálculo numérico.
